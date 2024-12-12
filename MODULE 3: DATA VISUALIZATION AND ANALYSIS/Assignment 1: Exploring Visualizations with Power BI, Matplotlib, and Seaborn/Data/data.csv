@@ -1,0 +1,485 @@
+OrderID,Revenue,Discounts,Taxes,TransactionID,OrderDate,CustomerID,ProductID,Quantity,TotalAmount,Month,ProductName,Category,Price,Name,Region,Segment
+1000,1755,30,65,1000,2023-02-11,6,212,4,426,2,Mind,Accessories,67,Lauren Walls,West,Wholesale
+1001,1727,76,101,1001,2024-06-09,22,226,8,184,6,Suffer,Accessories,179,Lori Cole,Central,Wholesale
+1002,1834,25,23,1002,2022-12-11,31,231,5,880,12,Role,Home Appliances,82,Sherri Knox,South,Wholesale
+1003,896,94,123,1003,2022-12-18,23,227,10,928,12,North,Home Appliances,221,Randy Duke,North,Retail
+1004,1868,51,63,1004,2024-04-11,42,215,7,517,4,Both,Accessories,334,Zachary Ray,Central,Corporate
+1005,1178,80,106,1005,2024-03-02,8,226,3,367,3,Suffer,Accessories,179,Derek Sanders,Central,Retail
+1006,1737,87,128,1006,2024-01-14,10,240,4,101,1,Dog,Accessories,377,Shawn Bryan,West,Corporate
+1007,970,94,96,1007,2023-12-07,42,223,10,455,12,Care,Electronics,335,Zachary Ray,Central,Corporate
+1008,1895,86,168,1008,2022-12-10,23,247,3,589,12,Happen,Electronics,57,Randy Duke,North,Retail
+1009,946,35,36,1009,2024-02-27,6,236,8,642,2,Maybe,Accessories,350,Lauren Walls,West,Wholesale
+1010,857,38,86,1010,2023-12-21,29,210,1,184,12,Heavy,Accessories,124,Crystal Green,North,Wholesale
+1011,1743,13,179,1011,2024-03-19,17,208,6,568,3,Explain,Home Appliances,247,Mark Silva,West,Corporate
+1013,1203,63,114,1013,2023-05-17,39,215,8,238,5,Both,Accessories,334,Taylor Moore,North,Retail
+1014,871,68,35,1014,2024-02-24,14,205,8,455,2,Card,Home Appliances,140,Eric Snyder,Central,Wholesale
+1015,1626,54,27,1015,2023-11-03,2,225,10,114,11,Nor,Books,466,David Charles,East,Corporate
+1016,860,20,183,1016,2024-07-16,29,210,9,158,7,Heavy,Accessories,124,Crystal Green,North,Wholesale
+1017,1010,8,54,1017,2024-02-18,25,235,3,459,2,Level,Home Appliances,367,Denise Mack,West,Corporate
+1018,594,33,186,1018,2023-02-03,28,212,1,665,2,Mind,Accessories,67,Bradley Huerta,Central,Corporate
+1019,683,56,47,1019,2022-11-22,38,206,3,324,11,Pull,Books,198,Luis Byrd,North,Retail
+1020,1165,75,193,1020,2023-09-15,30,248,5,651,9,System,Books,360,Alexander Chavez,Central,Retail
+1021,1017,33,163,1021,2024-11-11,27,238,9,310,11,Your,Books,219,Michelle Gordon,North,Wholesale
+1022,1496,64,59,1022,2024-10-20,3,214,1,573,10,Present,Home Appliances,287,Cheryl Harris,East,Corporate
+1023,1527,8,171,1023,2023-07-20,35,234,4,933,7,Just,Books,390,Lori Prince,East,Corporate
+1025,1710,64,118,1025,2024-05-06,19,215,7,377,5,Both,Accessories,334,Deborah Kelly,East,Wholesale
+1026,997,31,62,1026,2023-02-14,47,249,2,958,2,Story,Accessories,360,Kimberly Crosby,East,Retail
+1027,922,63,172,1027,2023-05-01,10,205,8,385,5,Card,Home Appliances,140,Shawn Bryan,West,Corporate
+1028,901,88,96,1028,2024-07-06,30,245,10,856,7,Catch,Accessories,89,Alexander Chavez,Central,Retail
+1029,200,79,98,1029,2024-06-15,39,218,5,252,6,Answer,Accessories,487,Taylor Moore,North,Retail
+1030,331,56,161,1030,2023-05-20,21,201,8,859,5,Shake,Electronics,226,Kristine Daniels,Central,Retail
+1031,386,84,123,1031,2023-10-29,25,235,2,290,10,Level,Home Appliances,367,Denise Mack,West,Corporate
+1032,1786,28,103,1032,2024-02-10,25,218,1,609,2,Answer,Accessories,487,Denise Mack,West,Corporate
+1033,834,91,112,1033,2023-01-07,48,203,8,805,1,Into,Home Appliances,160,Darrell Brady,East,Retail
+1034,1933,97,185,1034,2024-10-05,47,201,1,624,10,Shake,Electronics,226,Kimberly Crosby,East,Retail
+1035,1205,93,197,1035,2023-06-07,19,209,10,513,6,Protect,Home Appliances,345,Deborah Kelly,East,Wholesale
+1036,1382,20,30,1036,2024-07-17,4,238,1,190,7,Your,Books,219,Cameron King,Central,Corporate
+1037,212,3,85,1037,2023-04-13,41,234,1,267,4,Just,Books,390,Misty Kim,West,Corporate
+1038,1159,92,182,1038,2023-08-25,16,230,1,592,8,Notice,Books,323,Rachel Hartman,West,Corporate
+1039,756,63,98,1039,2024-05-19,31,216,6,637,5,Size,Home Appliances,293,Sherri Knox,South,Wholesale
+1040,1576,25,117,1040,2023-09-10,6,214,1,640,9,Present,Home Appliances,287,Lauren Walls,West,Wholesale
+1041,1836,42,143,1041,2024-06-02,48,217,5,904,6,Despite,Books,367,Darrell Brady,East,Retail
+1042,671,47,193,1042,2024-05-13,40,228,6,145,5,Gun,Home Appliances,438,David Wong,West,Wholesale
+1043,1018,79,32,1043,2023-12-06,24,247,10,888,12,Happen,Electronics,57,Laura Nunez,South,Corporate
+1044,858,64,67,1044,2024-05-08,8,246,3,1000,5,Dream,Home Appliances,229,Derek Sanders,Central,Retail
+1045,1168,49,168,1045,2023-09-23,28,224,7,972,9,Friend,Electronics,428,Bradley Huerta,Central,Corporate
+1046,931,14,19,1046,2024-08-09,14,249,6,142,8,Story,Accessories,360,Eric Snyder,Central,Wholesale
+1047,854,20,195,1047,2023-05-21,41,222,9,423,5,Price,Electronics,191,Misty Kim,West,Corporate
+1048,217,86,55,1048,2024-03-10,4,221,1,378,3,Hope,Electronics,292,Cameron King,Central,Corporate
+1049,718,32,98,1049,2024-11-12,34,243,9,389,11,Available,Accessories,258,Gina Scott,North,Corporate
+1050,1830,14,85,1050,2023-10-04,46,209,8,103,10,Protect,Home Appliances,345,Megan Melton,West,Wholesale
+1051,1929,54,198,1051,2024-03-13,7,222,1,956,3,Price,Electronics,191,Christine King,West,Wholesale
+1052,1288,29,30,1052,2023-09-15,48,242,6,794,9,Like,Electronics,440,Darrell Brady,East,Retail
+1053,240,45,82,1053,2023-07-04,28,220,10,724,7,We,Electronics,472,Bradley Huerta,Central,Corporate
+1054,232,76,71,1054,2024-01-12,34,244,4,226,1,Guess,Accessories,166,Gina Scott,North,Corporate
+1055,1939,86,111,1055,2024-07-20,26,207,10,406,7,Notice,Books,406,Robert Andrews,South,Retail
+1056,675,72,59,1056,2024-07-19,1,211,5,540,7,Process,Electronics,98,Christina Harrell,East,Corporate
+1057,1182,51,25,1057,2023-09-02,49,215,10,202,9,Both,Accessories,334,David Cobb,East,Retail
+1058,940,19,73,1058,2024-01-26,3,249,7,194,1,Story,Accessories,360,Cheryl Harris,East,Corporate
+1059,1869,48,41,1059,2023-12-01,24,231,1,713,12,Role,Home Appliances,82,Laura Nunez,South,Corporate
+1060,284,74,134,1060,2023-03-13,11,224,7,277,3,Friend,Electronics,428,Michael Morales,North,Retail
+1061,294,72,91,1061,2023-05-10,5,228,4,745,5,Gun,Home Appliances,438,Tanya Kim,West,Corporate
+1062,264,65,97,1062,2024-01-01,49,246,2,661,1,Dream,Home Appliances,229,David Cobb,East,Retail
+1063,490,62,99,1063,2023-01-10,38,228,2,446,1,Gun,Home Appliances,438,Luis Byrd,North,Retail
+1064,1517,74,59,1064,2024-11-09,2,203,5,552,11,Into,Home Appliances,160,David Charles,East,Corporate
+1065,1764,91,149,1065,2024-10-03,39,241,1,154,10,Argue,Electronics,133,Taylor Moore,North,Retail
+1066,426,58,62,1066,2024-04-14,26,216,4,815,4,Size,Home Appliances,293,Robert Andrews,South,Retail
+1067,1331,31,182,1067,2024-06-16,35,246,2,193,6,Dream,Home Appliances,229,Lori Prince,East,Corporate
+1068,1807,39,164,1068,2023-07-30,46,243,8,322,7,Available,Accessories,258,Megan Melton,West,Wholesale
+1069,1592,72,123,1069,2023-10-02,10,203,5,700,10,Into,Home Appliances,160,Shawn Bryan,West,Corporate
+1070,752,8,156,1070,2023-03-19,38,206,2,676,3,Pull,Books,198,Luis Byrd,North,Retail
+1071,339,22,56,1071,2023-03-08,8,221,8,472,3,Hope,Electronics,292,Derek Sanders,Central,Retail
+1072,732,79,64,1072,2023-01-03,36,217,8,401,1,Despite,Books,367,Dr. Steven Walter,West,Retail
+1073,1892,66,149,1073,2024-06-22,16,246,7,433,6,Dream,Home Appliances,229,Rachel Hartman,West,Corporate
+1074,1947,28,160,1074,2023-03-23,47,220,10,323,3,We,Electronics,472,Kimberly Crosby,East,Retail
+1075,1107,43,196,1075,2023-02-02,8,217,2,433,2,Despite,Books,367,Derek Sanders,Central,Retail
+1076,658,75,31,1076,2024-07-15,16,202,9,925,7,Skill,Books,494,Rachel Hartman,West,Corporate
+1077,1987,100,38,1077,2023-07-13,2,217,10,176,7,Despite,Books,367,David Charles,East,Corporate
+1079,1495,74,78,1079,2024-11-06,45,225,7,681,11,Nor,Books,466,Joseph Kemp DDS,North,Corporate
+1080,1467,28,140,1080,2023-01-14,10,201,8,390,1,Shake,Electronics,226,Shawn Bryan,West,Corporate
+1082,1552,71,192,1082,2024-07-13,40,238,6,146,7,Your,Books,219,David Wong,West,Wholesale
+1083,1589,44,174,1083,2023-05-08,9,240,6,645,5,Dog,Accessories,377,Steven Sullivan,Central,Corporate
+1084,392,22,47,1084,2024-05-14,49,201,4,431,5,Shake,Electronics,226,David Cobb,East,Retail
+1085,474,2,77,1085,2023-01-25,7,230,2,332,1,Notice,Books,323,Christine King,West,Wholesale
+1086,1917,64,20,1086,2023-04-04,30,220,9,429,4,We,Electronics,472,Alexander Chavez,Central,Retail
+1087,1787,98,106,1087,2024-10-20,45,246,1,764,10,Dream,Home Appliances,229,Joseph Kemp DDS,North,Corporate
+1088,1358,78,35,1088,2023-07-02,3,246,3,818,7,Dream,Home Appliances,229,Cheryl Harris,East,Corporate
+1089,1383,31,68,1089,2024-01-19,6,220,8,502,1,We,Electronics,472,Lauren Walls,West,Wholesale
+1090,1012,1,59,1090,2022-12-01,37,211,5,199,12,Process,Electronics,98,Lori Phelps MD,West,Corporate
+1091,1011,81,39,1091,2024-05-15,37,202,7,771,5,Skill,Books,494,Lori Phelps MD,West,Corporate
+1092,1022,63,168,1092,2023-06-26,44,230,5,387,6,Notice,Books,323,Maria Black,Central,Wholesale
+1093,625,28,10,1093,2022-11-19,7,203,1,564,11,Into,Home Appliances,160,Christine King,West,Wholesale
+1094,520,54,148,1094,2023-02-09,34,201,10,359,2,Shake,Electronics,226,Gina Scott,North,Corporate
+1095,385,57,58,1095,2024-10-03,19,211,8,628,10,Process,Electronics,98,Deborah Kelly,East,Wholesale
+1096,316,71,32,1096,2024-03-20,16,239,10,162,3,Performance,Home Appliances,256,Rachel Hartman,West,Corporate
+1097,1120,52,18,1097,2024-04-11,3,215,6,147,4,Both,Accessories,334,Cheryl Harris,East,Corporate
+1098,439,96,82,1098,2024-10-06,11,233,10,841,10,Enter,Books,383,Michael Morales,North,Retail
+1099,1942,20,195,1099,2023-03-16,28,218,6,574,3,Answer,Accessories,487,Bradley Huerta,Central,Corporate
+1100,837,47,170,1100,2024-08-03,26,217,4,797,8,Despite,Books,367,Robert Andrews,South,Retail
+1101,908,61,94,1101,2023-11-21,33,240,7,961,11,Dog,Accessories,377,William Brown,East,Wholesale
+1102,333,31,96,1102,2024-08-24,32,228,5,224,8,Gun,Home Appliances,438,Michael Hamilton,East,Wholesale
+1103,1127,89,93,1103,2023-02-02,13,248,7,591,2,System,Books,360,Denise Martin,Central,Wholesale
+1104,1170,34,162,1104,2023-03-05,30,246,6,772,3,Dream,Home Appliances,229,Alexander Chavez,Central,Retail
+1105,1041,75,146,1105,2024-04-18,41,242,2,640,4,Like,Electronics,440,Misty Kim,West,Corporate
+1106,237,23,29,1106,2024-09-05,45,219,7,513,9,Truth,Accessories,448,Joseph Kemp DDS,North,Corporate
+1107,1713,66,30,1107,2024-02-07,46,239,5,110,2,Performance,Home Appliances,256,Megan Melton,West,Wholesale
+1108,1248,76,68,1108,2024-07-07,5,247,6,734,7,Happen,Electronics,57,Tanya Kim,West,Corporate
+1109,1638,78,92,1109,2024-08-04,46,210,7,602,8,Heavy,Accessories,124,Megan Melton,West,Wholesale
+1110,994,5,154,1110,2024-09-21,21,244,9,915,9,Guess,Accessories,166,Kristine Daniels,Central,Retail
+1111,1557,23,137,1111,2023-06-21,34,222,5,748,6,Price,Electronics,191,Gina Scott,North,Corporate
+1112,1301,89,151,1112,2024-05-06,27,209,4,446,5,Protect,Home Appliances,345,Michelle Gordon,North,Wholesale
+1113,1815,53,118,1113,2023-05-08,21,221,1,356,5,Hope,Electronics,292,Kristine Daniels,Central,Retail
+1114,578,53,31,1114,2023-06-01,11,206,5,394,6,Pull,Books,198,Michael Morales,North,Retail
+1115,812,33,142,1115,2024-08-12,42,216,4,790,8,Size,Home Appliances,293,Zachary Ray,Central,Corporate
+1116,1096,12,60,1116,2024-05-04,4,242,10,120,5,Like,Electronics,440,Cameron King,Central,Corporate
+1117,957,7,130,1117,2024-01-24,38,235,4,984,1,Level,Home Appliances,367,Luis Byrd,North,Retail
+1118,417,31,30,1118,2023-01-28,47,231,5,199,1,Role,Home Appliances,82,Kimberly Crosby,East,Retail
+1119,1762,46,118,1119,2024-01-10,14,246,3,307,1,Dream,Home Appliances,229,Eric Snyder,Central,Wholesale
+1120,354,9,154,1120,2024-06-24,8,207,6,725,6,Notice,Books,406,Derek Sanders,Central,Retail
+1121,1866,59,13,1121,2023-10-06,48,207,2,794,10,Notice,Books,406,Darrell Brady,East,Retail
+1122,891,59,158,1122,2024-09-25,22,233,7,993,9,Enter,Books,383,Lori Cole,Central,Wholesale
+1123,1046,10,167,1123,2024-07-28,35,219,4,397,7,Truth,Accessories,448,Lori Prince,East,Corporate
+1124,1935,92,197,1124,2022-11-21,16,210,8,314,11,Heavy,Accessories,124,Rachel Hartman,West,Corporate
+1125,698,64,96,1125,2023-09-28,35,243,10,141,9,Available,Accessories,258,Lori Prince,East,Corporate
+1126,537,62,179,1126,2023-09-08,19,240,3,396,9,Dog,Accessories,377,Deborah Kelly,East,Wholesale
+1127,787,80,171,1127,2023-07-01,47,233,8,717,7,Enter,Books,383,Kimberly Crosby,East,Retail
+1128,1706,52,151,1128,2023-11-04,13,218,9,891,11,Answer,Accessories,487,Denise Martin,Central,Wholesale
+1129,1202,37,76,1129,2024-10-26,23,204,2,144,10,Responsibility,Books,479,Randy Duke,North,Retail
+1130,1643,51,44,1130,2023-06-17,37,225,1,960,6,Nor,Books,466,Lori Phelps MD,West,Corporate
+1131,1583,67,180,1131,2023-08-04,13,241,5,581,8,Argue,Electronics,133,Denise Martin,Central,Wholesale
+1132,714,17,173,1132,2024-03-03,41,207,5,459,3,Notice,Books,406,Misty Kim,West,Corporate
+1133,955,42,140,1133,2024-05-25,38,241,4,105,5,Argue,Electronics,133,Luis Byrd,North,Retail
+1134,1674,61,127,1134,2023-08-27,34,221,4,245,8,Hope,Electronics,292,Gina Scott,North,Corporate
+1135,913,52,22,1135,2023-10-16,9,231,2,580,10,Role,Home Appliances,82,Steven Sullivan,Central,Corporate
+1136,881,33,40,1136,2024-06-10,40,239,1,779,6,Performance,Home Appliances,256,David Wong,West,Wholesale
+1137,901,66,16,1137,2024-07-26,16,223,8,886,7,Care,Electronics,335,Rachel Hartman,West,Corporate
+1138,856,70,129,1138,2024-01-12,2,204,6,699,1,Responsibility,Books,479,David Charles,East,Corporate
+1139,1606,89,105,1139,2022-12-07,33,218,3,613,12,Answer,Accessories,487,William Brown,East,Wholesale
+1140,1306,32,118,1140,2022-12-30,9,233,9,524,12,Enter,Books,383,Steven Sullivan,Central,Corporate
+1141,1070,80,121,1141,2024-09-29,40,236,10,151,9,Maybe,Accessories,350,David Wong,West,Wholesale
+1142,1395,37,150,1142,2024-03-13,28,204,3,198,3,Responsibility,Books,479,Bradley Huerta,Central,Corporate
+1143,1944,0,171,1143,2024-01-27,26,207,10,727,1,Notice,Books,406,Robert Andrews,South,Retail
+1144,1231,29,37,1144,2023-01-02,41,218,4,684,1,Answer,Accessories,487,Misty Kim,West,Corporate
+1145,1933,20,187,1145,2024-04-10,3,241,3,457,4,Argue,Electronics,133,Cheryl Harris,East,Corporate
+1146,617,44,44,1146,2024-04-25,23,204,3,118,4,Responsibility,Books,479,Randy Duke,North,Retail
+1147,1854,55,11,1147,2023-07-15,48,217,8,578,7,Despite,Books,367,Darrell Brady,East,Retail
+1148,566,1,17,1148,2023-08-23,14,205,9,193,8,Card,Home Appliances,140,Eric Snyder,Central,Wholesale
+1149,1634,52,177,1149,2022-12-07,16,226,10,241,12,Suffer,Accessories,179,Rachel Hartman,West,Corporate
+1150,1068,10,104,1150,2023-10-09,40,230,8,419,10,Notice,Books,323,David Wong,West,Wholesale
+1151,759,89,16,1151,2022-12-24,15,228,1,335,12,Gun,Home Appliances,438,Sharon Leonard,South,Corporate
+1152,1558,4,164,1152,2023-12-06,3,222,8,883,12,Price,Electronics,191,Cheryl Harris,East,Corporate
+1153,1182,64,151,1153,2024-01-27,42,226,9,592,1,Suffer,Accessories,179,Zachary Ray,Central,Corporate
+1154,1242,48,102,1154,2023-09-15,44,236,2,729,9,Maybe,Accessories,350,Maria Black,Central,Wholesale
+1155,1047,44,188,1155,2023-04-07,26,206,9,978,4,Pull,Books,198,Robert Andrews,South,Retail
+1157,266,24,16,1157,2023-12-24,38,244,10,830,12,Guess,Accessories,166,Luis Byrd,North,Retail
+1158,702,50,176,1158,2023-07-22,27,241,8,404,7,Argue,Electronics,133,Michelle Gordon,North,Wholesale
+1159,870,38,78,1159,2023-09-11,41,243,3,918,9,Available,Accessories,258,Misty Kim,West,Corporate
+1160,1050,100,41,1160,2024-02-08,9,222,6,575,2,Price,Electronics,191,Steven Sullivan,Central,Corporate
+1161,1763,56,173,1161,2024-09-23,9,235,1,234,9,Level,Home Appliances,367,Steven Sullivan,Central,Corporate
+1162,1419,85,81,1162,2023-04-09,36,216,10,657,4,Size,Home Appliances,293,Dr. Steven Walter,West,Retail
+1163,590,10,193,1163,2023-04-10,32,243,7,550,4,Available,Accessories,258,Michael Hamilton,East,Wholesale
+1164,629,10,155,1164,2023-05-17,4,246,1,174,5,Dream,Home Appliances,229,Cameron King,Central,Corporate
+1165,1479,26,159,1165,2024-01-14,25,202,1,579,1,Skill,Books,494,Denise Mack,West,Corporate
+1166,868,24,196,1166,2024-05-05,6,221,4,187,5,Hope,Electronics,292,Lauren Walls,West,Wholesale
+1167,1657,24,139,1167,2024-08-29,22,205,8,948,8,Card,Home Appliances,140,Lori Cole,Central,Wholesale
+1168,529,15,131,1168,2023-08-25,31,237,1,904,8,Behavior,Accessories,190,Sherri Knox,South,Wholesale
+1169,1888,51,62,1169,2024-06-05,38,234,7,837,6,Just,Books,390,Luis Byrd,North,Retail
+1170,1560,34,123,1170,2023-10-14,12,208,8,695,10,Explain,Home Appliances,247,Carol Brown,West,Corporate
+1171,431,17,142,1171,2024-04-18,33,247,9,207,4,Happen,Electronics,57,William Brown,East,Wholesale
+1172,627,73,181,1172,2022-11-19,20,238,1,174,11,Your,Books,219,Vanessa Mcpherson,South,Wholesale
+1173,392,34,37,1173,2023-03-29,47,241,6,203,3,Argue,Electronics,133,Kimberly Crosby,East,Retail
+1174,685,77,72,1174,2024-01-28,45,226,1,800,1,Suffer,Accessories,179,Joseph Kemp DDS,North,Corporate
+1175,1939,63,187,1175,2023-07-08,2,227,4,990,7,North,Home Appliances,221,David Charles,East,Corporate
+1176,988,84,48,1176,2024-05-14,46,235,10,551,5,Level,Home Appliances,367,Megan Melton,West,Wholesale
+1177,1524,37,97,1177,2023-12-07,29,234,4,947,12,Just,Books,390,Crystal Green,North,Wholesale
+1178,1497,27,96,1178,2023-03-18,2,241,1,850,3,Argue,Electronics,133,David Charles,East,Corporate
+1179,1904,71,104,1179,2023-09-02,27,220,5,238,9,We,Electronics,472,Michelle Gordon,North,Wholesale
+1180,999,0,114,1180,2024-08-08,12,247,6,160,8,Happen,Electronics,57,Carol Brown,West,Corporate
+1181,817,70,89,1181,2024-01-02,27,203,9,229,1,Into,Home Appliances,160,Michelle Gordon,North,Wholesale
+1182,1493,88,84,1182,2023-04-21,39,216,10,242,4,Size,Home Appliances,293,Taylor Moore,North,Retail
+1183,944,26,119,1183,2024-03-02,41,212,1,210,3,Mind,Accessories,67,Misty Kim,West,Corporate
+1184,1706,77,107,1184,2023-12-30,34,201,4,363,12,Shake,Electronics,226,Gina Scott,North,Corporate
+1185,755,56,83,1185,2024-07-05,7,215,1,895,7,Both,Accessories,334,Christine King,West,Wholesale
+1186,420,100,114,1186,2023-08-07,16,234,10,587,8,Just,Books,390,Rachel Hartman,West,Corporate
+1187,638,46,161,1187,2024-09-21,40,249,2,399,9,Story,Accessories,360,David Wong,West,Wholesale
+1188,1419,35,19,1188,2024-01-03,39,211,7,920,1,Process,Electronics,98,Taylor Moore,North,Retail
+1189,1748,69,145,1189,2022-12-04,43,231,2,325,12,Role,Home Appliances,82,Patricia Matthews,East,Retail
+1191,784,10,150,1191,2023-11-05,35,216,6,434,11,Size,Home Appliances,293,Lori Prince,East,Corporate
+1192,1992,75,27,1192,2024-07-28,19,213,2,909,7,Guy,Electronics,224,Deborah Kelly,East,Wholesale
+1193,919,77,98,1193,2024-03-07,25,217,7,848,3,Despite,Books,367,Denise Mack,West,Corporate
+1194,843,94,177,1194,2022-12-25,21,237,4,469,12,Behavior,Accessories,190,Kristine Daniels,Central,Retail
+1195,1264,9,59,1195,2022-11-25,37,215,4,948,11,Both,Accessories,334,Lori Phelps MD,West,Corporate
+1197,1709,67,33,1197,2024-05-23,14,210,2,295,5,Heavy,Accessories,124,Eric Snyder,Central,Wholesale
+1199,400,94,128,1199,2023-04-16,42,244,1,807,4,Guess,Accessories,166,Zachary Ray,Central,Corporate
+1200,235,99,103,1200,2024-09-27,10,245,1,728,9,Catch,Accessories,89,Shawn Bryan,West,Corporate
+1201,1670,70,128,1201,2024-08-27,4,244,2,723,8,Guess,Accessories,166,Cameron King,Central,Corporate
+1202,1075,80,74,1202,2023-09-17,27,247,1,319,9,Happen,Electronics,57,Michelle Gordon,North,Wholesale
+1203,540,49,145,1203,2024-01-03,13,220,5,240,1,We,Electronics,472,Denise Martin,Central,Wholesale
+1204,1249,70,116,1204,2024-05-17,35,245,9,611,5,Catch,Accessories,89,Lori Prince,East,Corporate
+1205,1807,6,11,1205,2024-04-16,2,243,8,161,4,Available,Accessories,258,David Charles,East,Corporate
+1206,1463,100,165,1206,2024-08-23,41,243,8,147,8,Available,Accessories,258,Misty Kim,West,Corporate
+1207,2000,27,108,1207,2024-04-25,19,210,7,676,4,Heavy,Accessories,124,Deborah Kelly,East,Wholesale
+1208,1513,94,116,1208,2024-04-24,18,227,3,191,4,North,Home Appliances,221,Justin Carr,South,Retail
+1209,676,83,36,1209,2024-04-24,32,223,9,300,4,Care,Electronics,335,Michael Hamilton,East,Wholesale
+1211,825,24,68,1211,2023-11-07,16,220,2,154,11,We,Electronics,472,Rachel Hartman,West,Corporate
+1212,1957,19,23,1212,2023-09-24,35,248,3,361,9,System,Books,360,Lori Prince,East,Corporate
+1213,1656,27,107,1213,2023-01-30,41,220,9,983,1,We,Electronics,472,Misty Kim,West,Corporate
+1214,1450,37,18,1214,2024-07-16,49,236,8,732,7,Maybe,Accessories,350,David Cobb,East,Retail
+1215,1666,61,11,1215,2023-04-01,46,239,8,585,4,Performance,Home Appliances,256,Megan Melton,West,Wholesale
+1216,1437,19,22,1216,2023-05-24,43,216,1,590,5,Size,Home Appliances,293,Patricia Matthews,East,Retail
+1217,769,67,115,1217,2023-09-24,43,207,10,399,9,Notice,Books,406,Patricia Matthews,East,Retail
+1218,1575,95,146,1218,2024-02-08,41,203,1,388,2,Into,Home Appliances,160,Misty Kim,West,Corporate
+1220,1681,46,44,1220,2024-09-06,40,227,10,462,9,North,Home Appliances,221,David Wong,West,Wholesale
+1221,783,71,180,1221,2023-01-23,1,221,6,617,1,Hope,Electronics,292,Christina Harrell,East,Corporate
+1222,512,26,151,1222,2024-01-02,9,210,2,554,1,Heavy,Accessories,124,Steven Sullivan,Central,Corporate
+1223,1135,49,71,1223,2024-08-12,17,221,5,790,8,Hope,Electronics,292,Mark Silva,West,Corporate
+1224,904,6,84,1224,2023-09-12,43,230,5,245,9,Notice,Books,323,Patricia Matthews,East,Retail
+1225,1602,24,94,1225,2022-12-30,43,217,4,414,12,Despite,Books,367,Patricia Matthews,East,Retail
+1226,1773,3,15,1226,2023-01-09,7,229,9,133,1,Voice,Electronics,294,Christine King,West,Wholesale
+1227,884,10,193,1227,2023-06-20,1,219,7,343,6,Truth,Accessories,448,Christina Harrell,East,Corporate
+1228,969,90,45,1228,2023-05-16,40,239,5,372,5,Performance,Home Appliances,256,David Wong,West,Wholesale
+1229,1903,46,103,1229,2024-07-17,27,247,9,363,7,Happen,Electronics,57,Michelle Gordon,North,Wholesale
+1230,923,15,110,1230,2024-09-28,37,202,7,534,9,Skill,Books,494,Lori Phelps MD,West,Corporate
+1231,353,45,168,1231,2024-10-09,19,217,1,845,10,Despite,Books,367,Deborah Kelly,East,Wholesale
+1232,1895,67,55,1232,2024-04-20,20,239,2,455,4,Performance,Home Appliances,256,Vanessa Mcpherson,South,Wholesale
+1233,1757,68,85,1233,2023-10-29,8,207,9,673,10,Notice,Books,406,Derek Sanders,Central,Retail
+1234,906,47,45,1234,2023-08-13,22,217,7,922,8,Despite,Books,367,Lori Cole,Central,Wholesale
+1235,1498,24,60,1235,2024-09-07,42,213,8,698,9,Guy,Electronics,224,Zachary Ray,Central,Corporate
+1236,805,73,47,1236,2024-08-20,1,220,9,419,8,We,Electronics,472,Christina Harrell,East,Corporate
+1237,794,5,160,1237,2024-10-23,3,208,7,200,10,Explain,Home Appliances,247,Cheryl Harris,East,Corporate
+1238,873,61,75,1238,2022-12-18,30,219,6,571,12,Truth,Accessories,448,Alexander Chavez,Central,Retail
+1239,1704,40,14,1239,2024-01-02,17,221,7,310,1,Hope,Electronics,292,Mark Silva,West,Corporate
+1240,1599,28,124,1240,2023-08-01,7,240,7,542,8,Dog,Accessories,377,Christine King,West,Wholesale
+1241,1778,93,161,1241,2023-11-08,5,236,9,740,11,Maybe,Accessories,350,Tanya Kim,West,Corporate
+1242,721,11,81,1242,2023-02-11,31,238,6,668,2,Your,Books,219,Sherri Knox,South,Wholesale
+1243,1429,28,187,1243,2023-07-02,3,228,3,389,7,Gun,Home Appliances,438,Cheryl Harris,East,Corporate
+1244,1080,90,115,1244,2024-02-28,13,225,8,524,2,Nor,Books,466,Denise Martin,Central,Wholesale
+1245,1668,87,38,1245,2023-11-11,17,202,3,665,11,Skill,Books,494,Mark Silva,West,Corporate
+1246,353,49,95,1246,2023-01-24,14,242,8,528,1,Like,Electronics,440,Eric Snyder,Central,Wholesale
+1247,1836,12,80,1247,2023-10-30,40,223,10,545,10,Care,Electronics,335,David Wong,West,Wholesale
+1248,1866,10,86,1248,2024-05-02,26,207,6,353,5,Notice,Books,406,Robert Andrews,South,Retail
+1249,1177,65,108,1249,2023-09-29,20,215,1,545,9,Both,Accessories,334,Vanessa Mcpherson,South,Wholesale
+1250,1894,92,133,1250,2023-07-07,28,240,10,208,7,Dog,Accessories,377,Bradley Huerta,Central,Corporate
+1251,531,40,60,1251,2024-09-15,20,209,8,462,9,Protect,Home Appliances,345,Vanessa Mcpherson,South,Wholesale
+1252,1239,43,193,1252,2023-03-24,22,230,10,936,3,Notice,Books,323,Lori Cole,Central,Wholesale
+1253,1739,82,31,1253,2024-05-18,34,230,1,517,5,Notice,Books,323,Gina Scott,North,Corporate
+1254,1895,19,120,1254,2023-12-23,9,207,4,813,12,Notice,Books,406,Steven Sullivan,Central,Corporate
+1255,443,18,11,1255,2023-04-30,20,224,4,688,4,Friend,Electronics,428,Vanessa Mcpherson,South,Wholesale
+1256,1709,46,195,1256,2024-06-05,24,229,7,210,6,Voice,Electronics,294,Laura Nunez,South,Corporate
+1257,723,87,27,1257,2023-02-03,39,218,9,274,2,Answer,Accessories,487,Taylor Moore,North,Retail
+1258,1498,79,189,1258,2023-01-19,26,246,8,698,1,Dream,Home Appliances,229,Robert Andrews,South,Retail
+1259,318,31,162,1259,2023-09-30,45,237,4,191,9,Behavior,Accessories,190,Joseph Kemp DDS,North,Corporate
+1260,348,88,193,1260,2023-12-25,39,241,9,446,12,Argue,Electronics,133,Taylor Moore,North,Retail
+1261,687,95,48,1261,2023-03-17,7,202,5,821,3,Skill,Books,494,Christine King,West,Wholesale
+1262,920,49,110,1262,2024-03-05,30,215,2,916,3,Both,Accessories,334,Alexander Chavez,Central,Retail
+1263,1162,37,101,1263,2022-12-18,34,207,2,219,12,Notice,Books,406,Gina Scott,North,Corporate
+1264,229,82,91,1264,2022-11-19,24,237,2,959,11,Behavior,Accessories,190,Laura Nunez,South,Corporate
+1265,1504,5,100,1265,2023-06-18,42,237,6,996,6,Behavior,Accessories,190,Zachary Ray,Central,Corporate
+1266,1089,9,60,1266,2024-07-12,13,212,3,768,7,Mind,Accessories,67,Denise Martin,Central,Wholesale
+1267,411,31,22,1267,2023-05-15,49,244,4,396,5,Guess,Accessories,166,David Cobb,East,Retail
+1268,1210,68,152,1268,2023-01-08,3,224,9,752,1,Friend,Electronics,428,Cheryl Harris,East,Corporate
+1269,536,92,102,1269,2023-05-22,20,201,6,308,5,Shake,Electronics,226,Vanessa Mcpherson,South,Wholesale
+1270,301,95,175,1270,2024-01-27,29,202,10,340,1,Skill,Books,494,Crystal Green,North,Wholesale
+1271,545,45,86,1271,2023-04-21,30,237,3,954,4,Behavior,Accessories,190,Alexander Chavez,Central,Retail
+1272,839,1,24,1272,2024-09-09,20,202,6,150,9,Skill,Books,494,Vanessa Mcpherson,South,Wholesale
+1274,501,77,100,1274,2024-05-10,2,249,2,463,5,Story,Accessories,360,David Charles,East,Corporate
+1275,675,54,91,1275,2024-10-17,3,216,6,136,10,Size,Home Appliances,293,Cheryl Harris,East,Corporate
+1276,849,88,25,1276,2023-11-24,15,240,2,546,11,Dog,Accessories,377,Sharon Leonard,South,Corporate
+1277,1872,42,189,1277,2023-11-08,5,244,9,586,11,Guess,Accessories,166,Tanya Kim,West,Corporate
+1278,266,1,170,1278,2024-06-25,16,225,1,260,6,Nor,Books,466,Rachel Hartman,West,Corporate
+1279,1163,28,199,1279,2023-04-09,50,216,9,434,4,Size,Home Appliances,293,Joshua Vang,South,Corporate
+1280,450,47,138,1280,2024-02-16,2,207,9,876,2,Notice,Books,406,David Charles,East,Corporate
+1281,620,45,177,1281,2024-09-14,45,244,8,146,9,Guess,Accessories,166,Joseph Kemp DDS,North,Corporate
+1282,1637,26,97,1282,2023-11-30,38,226,3,845,11,Suffer,Accessories,179,Luis Byrd,North,Retail
+1283,1863,84,92,1283,2023-07-25,45,227,6,295,7,North,Home Appliances,221,Joseph Kemp DDS,North,Corporate
+1284,1843,27,40,1284,2023-08-13,11,215,3,661,8,Both,Accessories,334,Michael Morales,North,Retail
+1285,1257,96,185,1285,2023-07-15,24,221,3,748,7,Hope,Electronics,292,Laura Nunez,South,Corporate
+1286,507,3,48,1286,2023-01-25,25,208,7,347,1,Explain,Home Appliances,247,Denise Mack,West,Corporate
+1287,1030,35,117,1287,2023-08-26,31,233,6,766,8,Enter,Books,383,Sherri Knox,South,Wholesale
+1288,1133,13,94,1288,2024-08-18,34,205,9,819,8,Card,Home Appliances,140,Gina Scott,North,Corporate
+1289,1077,74,46,1289,2023-04-16,45,243,10,144,4,Available,Accessories,258,Joseph Kemp DDS,North,Corporate
+1290,732,25,71,1290,2022-12-23,8,212,6,451,12,Mind,Accessories,67,Derek Sanders,Central,Retail
+1291,1626,97,76,1291,2023-01-11,17,245,7,136,1,Catch,Accessories,89,Mark Silva,West,Corporate
+1292,1092,24,105,1292,2023-07-11,48,202,10,562,7,Skill,Books,494,Darrell Brady,East,Retail
+1293,311,43,112,1293,2024-03-04,31,235,2,339,3,Level,Home Appliances,367,Sherri Knox,South,Wholesale
+1294,1980,32,63,1294,2024-08-20,16,226,7,197,8,Suffer,Accessories,179,Rachel Hartman,West,Corporate
+1295,1116,49,42,1295,2024-09-18,28,240,9,752,9,Dog,Accessories,377,Bradley Huerta,Central,Corporate
+1296,1825,73,80,1296,2024-09-03,29,232,2,551,9,Dinner,Electronics,291,Crystal Green,North,Wholesale
+1297,1179,35,164,1297,2024-05-14,13,235,6,325,5,Level,Home Appliances,367,Denise Martin,Central,Wholesale
+1298,427,36,20,1298,2023-08-05,10,222,1,367,8,Price,Electronics,191,Shawn Bryan,West,Corporate
+1299,751,14,43,1299,2023-08-26,38,239,7,770,8,Performance,Home Appliances,256,Luis Byrd,North,Retail
+1300,621,6,83,1300,2024-05-11,26,226,6,289,5,Suffer,Accessories,179,Robert Andrews,South,Retail
+1301,232,66,139,1301,2024-05-31,35,233,6,881,5,Enter,Books,383,Lori Prince,East,Corporate
+1302,1589,21,56,1302,2023-05-17,3,235,2,438,5,Level,Home Appliances,367,Cheryl Harris,East,Corporate
+1303,1511,72,139,1303,2024-02-12,8,221,5,806,2,Hope,Electronics,292,Derek Sanders,Central,Retail
+1304,360,30,78,1304,2024-03-08,2,209,9,756,3,Protect,Home Appliances,345,David Charles,East,Corporate
+1305,522,86,160,1305,2024-05-19,25,237,7,939,5,Behavior,Accessories,190,Denise Mack,West,Corporate
+1306,1173,43,122,1306,2022-11-29,6,222,9,570,11,Price,Electronics,191,Lauren Walls,West,Wholesale
+1307,1037,31,150,1307,2023-08-15,16,227,5,190,8,North,Home Appliances,221,Rachel Hartman,West,Corporate
+1308,1408,93,43,1308,2023-12-03,10,205,10,146,12,Card,Home Appliances,140,Shawn Bryan,West,Corporate
+1309,511,78,83,1309,2023-06-05,14,205,2,501,6,Card,Home Appliances,140,Eric Snyder,Central,Wholesale
+1310,1247,98,53,1310,2023-10-10,11,215,1,909,10,Both,Accessories,334,Michael Morales,North,Retail
+1311,1762,95,154,1311,2023-05-19,18,231,2,716,5,Role,Home Appliances,82,Justin Carr,South,Retail
+1312,1207,1,70,1312,2024-08-10,23,204,10,518,8,Responsibility,Books,479,Randy Duke,North,Retail
+1313,487,0,167,1313,2024-06-29,44,205,6,492,6,Card,Home Appliances,140,Maria Black,Central,Wholesale
+1314,934,97,50,1314,2024-03-30,43,234,5,864,3,Just,Books,390,Patricia Matthews,East,Retail
+1315,1542,27,41,1315,2024-07-08,25,226,8,181,7,Suffer,Accessories,179,Denise Mack,West,Corporate
+1316,1839,31,122,1316,2024-03-27,19,228,1,742,3,Gun,Home Appliances,438,Deborah Kelly,East,Wholesale
+1317,925,66,103,1317,2024-03-26,23,227,3,504,3,North,Home Appliances,221,Randy Duke,North,Retail
+1318,1029,19,143,1318,2022-12-15,16,237,3,700,12,Behavior,Accessories,190,Rachel Hartman,West,Corporate
+1319,643,74,42,1319,2023-03-24,28,215,7,516,3,Both,Accessories,334,Bradley Huerta,Central,Corporate
+1320,1918,81,184,1320,2024-05-10,1,213,5,616,5,Guy,Electronics,224,Christina Harrell,East,Corporate
+1321,1332,15,125,1321,2023-07-06,27,234,7,304,7,Just,Books,390,Michelle Gordon,North,Wholesale
+1322,1291,84,11,1322,2024-11-07,39,248,4,937,11,System,Books,360,Taylor Moore,North,Retail
+1323,427,11,113,1323,2023-09-22,28,213,8,220,9,Guy,Electronics,224,Bradley Huerta,Central,Corporate
+1324,633,40,128,1324,2024-05-16,15,213,6,905,5,Guy,Electronics,224,Sharon Leonard,South,Corporate
+1325,1561,90,65,1325,2023-06-23,24,249,5,151,6,Story,Accessories,360,Laura Nunez,South,Corporate
+1326,1711,76,58,1326,2022-12-09,42,224,4,951,12,Friend,Electronics,428,Zachary Ray,Central,Corporate
+1327,718,21,98,1327,2024-10-01,14,204,4,365,10,Responsibility,Books,479,Eric Snyder,Central,Wholesale
+1328,1813,96,62,1328,2023-04-28,12,208,9,347,4,Explain,Home Appliances,247,Carol Brown,West,Corporate
+1329,1123,99,170,1329,2024-06-11,10,218,8,870,6,Answer,Accessories,487,Shawn Bryan,West,Corporate
+1330,1255,61,114,1330,2023-12-29,18,223,3,797,12,Care,Electronics,335,Justin Carr,South,Retail
+1331,1325,30,147,1331,2023-05-27,31,224,3,910,5,Friend,Electronics,428,Sherri Knox,South,Wholesale
+1332,502,48,35,1332,2024-04-25,34,245,8,922,4,Catch,Accessories,89,Gina Scott,North,Corporate
+1333,1361,17,80,1333,2024-01-16,10,231,4,699,1,Role,Home Appliances,82,Shawn Bryan,West,Corporate
+1334,1998,6,49,1334,2023-09-27,15,205,10,668,9,Card,Home Appliances,140,Sharon Leonard,South,Corporate
+1335,932,86,116,1335,2023-02-22,37,212,4,489,2,Mind,Accessories,67,Lori Phelps MD,West,Corporate
+1336,1214,70,88,1336,2023-03-28,28,234,8,347,3,Just,Books,390,Bradley Huerta,Central,Corporate
+1337,1681,26,105,1337,2024-07-21,29,235,4,557,7,Level,Home Appliances,367,Crystal Green,North,Wholesale
+1338,1624,1,73,1338,2023-10-02,9,227,5,587,10,North,Home Appliances,221,Steven Sullivan,Central,Corporate
+1339,1141,97,144,1339,2023-08-10,17,214,6,314,8,Present,Home Appliances,287,Mark Silva,West,Corporate
+1341,1813,82,42,1341,2024-10-08,34,215,9,346,10,Both,Accessories,334,Gina Scott,North,Corporate
+1342,398,98,72,1342,2023-06-04,8,204,4,544,6,Responsibility,Books,479,Derek Sanders,Central,Retail
+1343,1452,34,114,1343,2024-07-04,44,203,9,197,7,Into,Home Appliances,160,Maria Black,Central,Wholesale
+1344,717,95,88,1344,2023-04-13,10,244,4,322,4,Guess,Accessories,166,Shawn Bryan,West,Corporate
+1345,1989,58,141,1345,2024-09-10,11,208,4,739,9,Explain,Home Appliances,247,Michael Morales,North,Retail
+1346,1322,65,83,1346,2023-03-17,30,248,1,122,3,System,Books,360,Alexander Chavez,Central,Retail
+1347,1332,85,67,1347,2024-05-16,22,207,4,999,5,Notice,Books,406,Lori Cole,Central,Wholesale
+1348,900,80,90,1348,2023-09-07,22,207,5,864,9,Notice,Books,406,Lori Cole,Central,Wholesale
+1349,795,100,170,1349,2023-05-01,27,211,8,871,5,Process,Electronics,98,Michelle Gordon,North,Wholesale
+1351,1249,68,18,1351,2023-06-13,31,215,8,798,6,Both,Accessories,334,Sherri Knox,South,Wholesale
+1352,335,12,132,1352,2024-02-09,21,233,7,131,2,Enter,Books,383,Kristine Daniels,Central,Retail
+1353,633,66,52,1353,2024-10-22,22,221,2,701,10,Hope,Electronics,292,Lori Cole,Central,Wholesale
+1354,273,58,92,1354,2024-06-09,41,233,1,963,6,Enter,Books,383,Misty Kim,West,Corporate
+1355,979,89,47,1355,2024-04-23,47,213,3,926,4,Guy,Electronics,224,Kimberly Crosby,East,Retail
+1356,785,85,107,1356,2023-08-17,19,208,5,633,8,Explain,Home Appliances,247,Deborah Kelly,East,Wholesale
+1357,338,18,121,1357,2024-06-30,26,249,4,187,6,Story,Accessories,360,Robert Andrews,South,Retail
+1358,700,24,188,1358,2024-03-17,36,221,6,207,3,Hope,Electronics,292,Dr. Steven Walter,West,Retail
+1359,890,88,17,1359,2023-11-05,9,220,9,605,11,We,Electronics,472,Steven Sullivan,Central,Corporate
+1360,449,82,58,1360,2024-01-08,15,216,6,281,1,Size,Home Appliances,293,Sharon Leonard,South,Corporate
+1361,1160,71,71,1361,2024-08-22,14,222,10,751,8,Price,Electronics,191,Eric Snyder,Central,Wholesale
+1362,1757,15,36,1362,2023-09-21,45,231,10,483,9,Role,Home Appliances,82,Joseph Kemp DDS,North,Corporate
+1363,1741,37,161,1363,2024-07-03,16,218,6,664,7,Answer,Accessories,487,Rachel Hartman,West,Corporate
+1364,787,7,34,1364,2024-06-14,45,205,2,682,6,Card,Home Appliances,140,Joseph Kemp DDS,North,Corporate
+1365,1111,32,141,1365,2024-03-29,15,247,5,307,3,Happen,Electronics,57,Sharon Leonard,South,Corporate
+1366,539,3,91,1366,2024-06-05,15,208,10,199,6,Explain,Home Appliances,247,Sharon Leonard,South,Corporate
+1367,966,34,54,1367,2022-12-13,32,231,1,170,12,Role,Home Appliances,82,Michael Hamilton,East,Wholesale
+1368,1889,68,138,1368,2024-05-05,44,238,9,796,5,Your,Books,219,Maria Black,Central,Wholesale
+1369,1074,40,175,1369,2024-02-02,46,221,5,891,2,Hope,Electronics,292,Megan Melton,West,Wholesale
+1370,1677,98,173,1370,2023-02-18,6,249,10,306,2,Story,Accessories,360,Lauren Walls,West,Wholesale
+1371,419,39,71,1371,2023-09-26,11,218,1,325,9,Answer,Accessories,487,Michael Morales,North,Retail
+1372,1679,21,91,1372,2023-10-19,3,240,10,542,10,Dog,Accessories,377,Cheryl Harris,East,Corporate
+1373,997,48,139,1373,2023-04-21,44,212,4,860,4,Mind,Accessories,67,Maria Black,Central,Wholesale
+1374,221,74,51,1374,2023-07-10,30,205,2,914,7,Card,Home Appliances,140,Alexander Chavez,Central,Retail
+1375,726,48,127,1375,2023-12-25,39,216,9,955,12,Size,Home Appliances,293,Taylor Moore,North,Retail
+1376,1693,48,195,1376,2023-07-10,4,229,6,134,7,Voice,Electronics,294,Cameron King,Central,Corporate
+1377,1121,19,79,1377,2023-05-31,8,233,3,836,5,Enter,Books,383,Derek Sanders,Central,Retail
+1378,1132,35,129,1378,2023-10-03,50,234,2,282,10,Just,Books,390,Joshua Vang,South,Corporate
+1379,1929,79,154,1379,2023-04-09,27,221,1,377,4,Hope,Electronics,292,Michelle Gordon,North,Wholesale
+1380,1809,67,81,1380,2024-04-16,25,249,8,366,4,Story,Accessories,360,Denise Mack,West,Corporate
+1381,1156,18,160,1381,2023-03-31,26,233,1,116,3,Enter,Books,383,Robert Andrews,South,Retail
+1382,279,29,185,1382,2024-03-30,11,243,7,495,3,Available,Accessories,258,Michael Morales,North,Retail
+1383,1593,45,54,1383,2024-10-30,46,232,5,365,10,Dinner,Electronics,291,Megan Melton,West,Wholesale
+1384,1647,56,182,1384,2023-10-06,16,206,5,677,10,Pull,Books,198,Rachel Hartman,West,Corporate
+1385,790,100,97,1385,2023-08-29,11,211,4,889,8,Process,Electronics,98,Michael Morales,North,Retail
+1386,731,62,137,1386,2023-05-23,13,229,6,663,5,Voice,Electronics,294,Denise Martin,Central,Wholesale
+1387,1754,98,53,1387,2024-05-01,37,218,3,105,5,Answer,Accessories,487,Lori Phelps MD,West,Corporate
+1388,1405,42,20,1388,2024-11-11,12,241,2,310,11,Argue,Electronics,133,Carol Brown,West,Corporate
+1389,1744,75,117,1389,2023-03-22,44,202,5,557,3,Skill,Books,494,Maria Black,Central,Wholesale
+1390,1657,77,25,1390,2024-08-09,10,215,7,528,8,Both,Accessories,334,Shawn Bryan,West,Corporate
+1391,311,93,195,1391,2024-10-03,31,228,8,523,10,Gun,Home Appliances,438,Sherri Knox,South,Wholesale
+1392,727,23,77,1392,2022-12-26,47,241,6,306,12,Argue,Electronics,133,Kimberly Crosby,East,Retail
+1393,1684,42,132,1393,2023-02-12,50,201,8,542,2,Shake,Electronics,226,Joshua Vang,South,Corporate
+1395,1542,81,154,1395,2023-10-16,45,214,4,578,10,Present,Home Appliances,287,Joseph Kemp DDS,North,Corporate
+1396,281,15,14,1396,2023-12-24,43,219,3,182,12,Truth,Accessories,448,Patricia Matthews,East,Retail
+1397,1580,58,114,1397,2024-07-28,19,243,5,895,7,Available,Accessories,258,Deborah Kelly,East,Wholesale
+1398,1317,63,140,1398,2023-11-22,34,248,7,661,11,System,Books,360,Gina Scott,North,Corporate
+1399,1138,81,78,1399,2024-05-14,44,230,10,459,5,Notice,Books,323,Maria Black,Central,Wholesale
+1400,309,53,153,1400,2024-04-23,16,237,9,268,4,Behavior,Accessories,190,Rachel Hartman,West,Corporate
+1401,1593,37,13,1401,2023-06-16,12,237,4,610,6,Behavior,Accessories,190,Carol Brown,West,Corporate
+1402,1083,93,31,1402,2022-12-05,17,238,9,414,12,Your,Books,219,Mark Silva,West,Corporate
+1403,1975,19,44,1403,2024-01-23,43,209,10,373,1,Protect,Home Appliances,345,Patricia Matthews,East,Retail
+1404,1909,30,28,1404,2023-08-06,34,245,1,169,8,Catch,Accessories,89,Gina Scott,North,Corporate
+1405,1317,51,140,1405,2023-02-23,22,248,4,833,2,System,Books,360,Lori Cole,Central,Wholesale
+1406,363,5,24,1406,2024-08-06,45,205,4,879,8,Card,Home Appliances,140,Joseph Kemp DDS,North,Corporate
+1407,1039,34,23,1407,2023-12-29,40,205,4,496,12,Card,Home Appliances,140,David Wong,West,Wholesale
+1408,508,66,174,1408,2024-11-11,22,233,9,112,11,Enter,Books,383,Lori Cole,Central,Wholesale
+1409,1191,53,75,1409,2022-11-25,36,229,6,131,11,Voice,Electronics,294,Dr. Steven Walter,West,Retail
+1410,1704,35,104,1410,2024-09-06,17,245,6,980,9,Catch,Accessories,89,Mark Silva,West,Corporate
+1411,1052,73,97,1411,2023-07-29,28,238,1,223,7,Your,Books,219,Bradley Huerta,Central,Corporate
+1412,1891,4,17,1412,2023-04-03,8,234,4,832,4,Just,Books,390,Derek Sanders,Central,Retail
+1413,503,48,69,1413,2023-07-31,1,240,2,947,7,Dog,Accessories,377,Christina Harrell,East,Corporate
+1414,1292,5,80,1414,2024-01-09,42,226,4,618,1,Suffer,Accessories,179,Zachary Ray,Central,Corporate
+1415,1971,64,56,1415,2024-10-24,9,213,4,514,10,Guy,Electronics,224,Steven Sullivan,Central,Corporate
+1416,1147,54,117,1416,2022-12-24,6,242,2,579,12,Like,Electronics,440,Lauren Walls,West,Wholesale
+1417,432,8,45,1417,2023-05-24,9,216,2,316,5,Size,Home Appliances,293,Steven Sullivan,Central,Corporate
+1418,1747,9,195,1418,2024-03-11,47,209,6,359,3,Protect,Home Appliances,345,Kimberly Crosby,East,Retail
+1419,1176,46,18,1419,2024-10-17,43,239,8,971,10,Performance,Home Appliances,256,Patricia Matthews,East,Retail
+1420,466,5,173,1420,2023-05-22,12,205,9,769,5,Card,Home Appliances,140,Carol Brown,West,Corporate
+1421,1781,98,161,1421,2023-01-23,19,237,1,979,1,Behavior,Accessories,190,Deborah Kelly,East,Wholesale
+1422,660,94,113,1422,2023-03-23,5,247,8,800,3,Happen,Electronics,57,Tanya Kim,West,Corporate
+1423,520,43,174,1423,2023-04-30,3,232,3,810,4,Dinner,Electronics,291,Cheryl Harris,East,Corporate
+1424,1603,2,159,1424,2023-08-06,7,221,5,883,8,Hope,Electronics,292,Christine King,West,Wholesale
+1425,1462,100,183,1425,2024-09-25,7,216,8,467,9,Size,Home Appliances,293,Christine King,West,Wholesale
+1426,1667,20,53,1426,2024-03-19,28,231,2,418,3,Role,Home Appliances,82,Bradley Huerta,Central,Corporate
+1427,1176,84,11,1427,2023-07-06,49,208,6,238,7,Explain,Home Appliances,247,David Cobb,East,Retail
+1428,1058,99,69,1428,2024-10-14,1,241,2,728,10,Argue,Electronics,133,Christina Harrell,East,Corporate
+1429,1261,71,187,1429,2023-01-25,44,225,9,401,1,Nor,Books,466,Maria Black,Central,Wholesale
+1430,1320,90,10,1430,2022-12-02,9,223,1,362,12,Care,Electronics,335,Steven Sullivan,Central,Corporate
+1431,1377,61,52,1431,2023-02-07,29,216,3,511,2,Size,Home Appliances,293,Crystal Green,North,Wholesale
+1432,1305,38,185,1432,2024-11-04,2,206,8,340,11,Pull,Books,198,David Charles,East,Corporate
+1433,1551,74,64,1433,2024-11-02,37,239,4,345,11,Performance,Home Appliances,256,Lori Phelps MD,West,Corporate
+1434,378,17,142,1434,2023-06-23,36,246,3,708,6,Dream,Home Appliances,229,Dr. Steven Walter,West,Retail
+1435,486,84,65,1435,2023-07-15,43,230,4,470,7,Notice,Books,323,Patricia Matthews,East,Retail
+1436,835,54,83,1436,2024-06-22,15,203,6,720,6,Into,Home Appliances,160,Sharon Leonard,South,Corporate
+1437,593,94,35,1437,2023-12-07,16,210,2,901,12,Heavy,Accessories,124,Rachel Hartman,West,Corporate
+1438,1946,41,40,1438,2024-07-09,21,239,3,274,7,Performance,Home Appliances,256,Kristine Daniels,Central,Retail
+1439,1249,48,72,1439,2023-10-19,8,246,9,119,10,Dream,Home Appliances,229,Derek Sanders,Central,Retail
+1440,1678,81,140,1440,2024-04-21,20,222,6,665,4,Price,Electronics,191,Vanessa Mcpherson,South,Wholesale
+1441,417,43,160,1441,2023-06-07,31,230,8,902,6,Notice,Books,323,Sherri Knox,South,Wholesale
+1443,349,90,80,1443,2024-05-09,2,207,6,828,5,Notice,Books,406,David Charles,East,Corporate
+1444,227,68,149,1444,2024-10-23,9,233,4,258,10,Enter,Books,383,Steven Sullivan,Central,Corporate
+1445,645,77,197,1445,2022-12-25,30,218,9,858,12,Answer,Accessories,487,Alexander Chavez,Central,Retail
+1446,847,81,198,1446,2023-05-20,21,213,1,674,5,Guy,Electronics,224,Kristine Daniels,Central,Retail
+1447,1967,55,71,1447,2023-05-28,46,238,3,233,5,Your,Books,219,Megan Melton,West,Wholesale
+1448,1995,64,71,1448,2024-08-04,21,224,4,837,8,Friend,Electronics,428,Kristine Daniels,Central,Retail
+1449,1755,39,117,1449,2024-08-25,40,214,5,652,8,Present,Home Appliances,287,David Wong,West,Wholesale
+1450,1040,51,105,1450,2024-09-11,43,220,10,775,9,We,Electronics,472,Patricia Matthews,East,Retail
+1451,655,42,197,1451,2023-07-06,3,209,4,144,7,Protect,Home Appliances,345,Cheryl Harris,East,Corporate
+1452,361,22,185,1452,2023-01-04,41,220,10,347,1,We,Electronics,472,Misty Kim,West,Corporate
+1453,1386,67,196,1453,2023-11-03,40,224,8,557,11,Friend,Electronics,428,David Wong,West,Wholesale
+1454,1194,38,70,1454,2024-05-21,24,205,8,290,5,Card,Home Appliances,140,Laura Nunez,South,Corporate
+1455,328,21,59,1455,2023-05-08,40,221,5,701,5,Hope,Electronics,292,David Wong,West,Wholesale
+1456,1534,24,159,1456,2023-03-02,30,242,2,219,3,Like,Electronics,440,Alexander Chavez,Central,Retail
+1457,791,78,124,1457,2023-12-24,6,224,2,304,12,Friend,Electronics,428,Lauren Walls,West,Wholesale
+1458,471,41,92,1458,2023-10-21,16,236,10,147,10,Maybe,Accessories,350,Rachel Hartman,West,Corporate
+1459,552,71,89,1459,2023-07-07,49,211,1,140,7,Process,Electronics,98,David Cobb,East,Retail
+1460,1111,10,185,1460,2023-06-11,36,239,4,131,6,Performance,Home Appliances,256,Dr. Steven Walter,West,Retail
+1461,234,20,106,1461,2023-05-27,12,230,3,895,5,Notice,Books,323,Carol Brown,West,Corporate
+1462,415,100,123,1462,2024-07-23,13,225,7,535,7,Nor,Books,466,Denise Martin,Central,Wholesale
+1463,289,78,191,1463,2024-05-22,40,235,10,624,5,Level,Home Appliances,367,David Wong,West,Wholesale
+1464,1741,67,85,1464,2024-06-21,12,222,6,677,6,Price,Electronics,191,Carol Brown,West,Corporate
+1465,1083,21,164,1465,2023-08-07,37,212,1,750,8,Mind,Accessories,67,Lori Phelps MD,West,Corporate
+1466,441,71,56,1466,2024-06-30,7,202,9,924,6,Skill,Books,494,Christine King,West,Wholesale
+1467,1234,61,91,1467,2023-01-25,32,234,4,251,1,Just,Books,390,Michael Hamilton,East,Wholesale
+1468,1693,11,53,1468,2023-06-10,27,219,2,850,6,Truth,Accessories,448,Michelle Gordon,North,Wholesale
+1469,1139,35,26,1469,2023-12-17,35,211,8,651,12,Process,Electronics,98,Lori Prince,East,Corporate
+1470,873,26,75,1470,2024-10-18,14,229,6,827,10,Voice,Electronics,294,Eric Snyder,Central,Wholesale
+1471,1038,31,27,1471,2024-11-02,48,212,6,854,11,Mind,Accessories,67,Darrell Brady,East,Retail
+1472,929,72,15,1472,2023-02-01,47,222,1,188,2,Price,Electronics,191,Kimberly Crosby,East,Retail
+1473,1911,39,93,1473,2023-02-11,3,237,5,613,2,Behavior,Accessories,190,Cheryl Harris,East,Corporate
+1474,821,27,62,1474,2023-08-12,7,206,6,615,8,Pull,Books,198,Christine King,West,Wholesale
+1475,1747,2,24,1475,2023-06-25,11,219,8,742,6,Truth,Accessories,448,Michael Morales,North,Retail
+1476,472,35,47,1476,2023-01-01,12,232,5,670,1,Dinner,Electronics,291,Carol Brown,West,Corporate
+1477,1841,89,15,1477,2023-11-17,49,231,7,441,11,Role,Home Appliances,82,David Cobb,East,Retail
+1478,1873,20,26,1478,2023-10-15,27,243,5,238,10,Available,Accessories,258,Michelle Gordon,North,Wholesale
+1479,1482,13,88,1479,2024-01-23,30,238,4,949,1,Your,Books,219,Alexander Chavez,Central,Retail
+1480,1263,57,133,1480,2024-02-23,35,235,7,349,2,Level,Home Appliances,367,Lori Prince,East,Corporate
+1481,1137,7,184,1481,2024-07-30,10,246,7,144,7,Dream,Home Appliances,229,Shawn Bryan,West,Corporate
+1482,458,92,194,1482,2022-12-08,42,229,8,406,12,Voice,Electronics,294,Zachary Ray,Central,Corporate
+1483,1694,86,194,1483,2024-04-25,50,232,1,478,4,Dinner,Electronics,291,Joshua Vang,South,Corporate
+1484,517,17,10,1484,2024-06-15,27,235,4,217,6,Level,Home Appliances,367,Michelle Gordon,North,Wholesale
+1485,843,74,40,1485,2024-07-14,2,227,7,773,7,North,Home Appliances,221,David Charles,East,Corporate
+1486,1904,70,168,1486,2023-08-14,16,219,3,645,8,Truth,Accessories,448,Rachel Hartman,West,Corporate
+1488,1591,72,69,1488,2023-10-08,8,224,8,446,10,Friend,Electronics,428,Derek Sanders,Central,Retail
+1489,780,36,99,1489,2023-10-07,17,234,4,336,10,Just,Books,390,Mark Silva,West,Corporate
+1490,1325,80,22,1490,2024-10-16,3,212,10,512,10,Mind,Accessories,67,Cheryl Harris,East,Corporate
+1491,284,9,72,1491,2024-06-16,42,234,8,182,6,Just,Books,390,Zachary Ray,Central,Corporate
+1492,1609,11,29,1492,2022-11-28,49,201,7,561,11,Shake,Electronics,226,David Cobb,East,Retail
+1493,1374,1,115,1493,2024-01-24,35,236,8,523,1,Maybe,Accessories,350,Lori Prince,East,Corporate
+1494,611,5,39,1494,2023-04-28,17,201,10,794,4,Shake,Electronics,226,Mark Silva,West,Corporate
+1495,1089,92,28,1495,2023-04-16,30,208,8,903,4,Explain,Home Appliances,247,Alexander Chavez,Central,Retail
+1496,1338,49,95,1496,2023-03-25,10,230,5,192,3,Notice,Books,323,Shawn Bryan,West,Corporate
+1497,770,8,172,1497,2024-06-28,11,218,7,288,6,Answer,Accessories,487,Michael Morales,North,Retail
+1498,1264,76,182,1498,2024-04-06,38,213,6,905,4,Guy,Electronics,224,Luis Byrd,North,Retail
+1499,1882,5,141,1499,2023-05-03,44,204,2,596,5,Responsibility,Books,479,Maria Black,Central,Wholesale
